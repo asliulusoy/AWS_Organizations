@@ -16,14 +16,14 @@ AWS Organizations, AWS hesaplarınızı merkezi bir şekilde yönetmenizi sağla
 AWS Organizations'ı kullanırken, yalnızca organizasyonunuzdaki hesaplardan diğer AWS hizmetlerine erişim sağladığınızda ücretlendirilirsiniz. AWS Organizations'ın kendisi ek bir ücret gerektirmez.
 
 # AWS Organizations Kurulumu
-[AWSOrganizations](https://d1.awsstatic.com/product-marketing/organizations/Diagram_AWS-Organizations_How-It_Works_v2.5277134093f588c79f6eec0f72b4f5ac779053f1.png)
+![AWSOrganizations](https://d1.awsstatic.com/product-marketing/organizations/Diagram_AWS-Organizations_How-It_Works_v2.5277134093f588c79f6eec0f72b4f5ac779053f1.png)
 
 - Organizasyonunuzu yönetmek için bir hesap seçin (veya oluşturun).
 - Konsolda AWS Organizations sayfasını ziyaret edin.
 - "Organizasyon Oluştur" seçeneğini seçin.
 - Yönetim hesabının e-posta adresini doğrulayın.
 # Diğer Hesapları Davet Edin
-[AWSOrganizationsInvitation](https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/41_AWS_organizations_1_b4895f1b83.png)
+![image](https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/41_AWS_organizations_1_b4895f1b83.png)
+
 # IAM Identity Center ile Beraber Çalışın
-[AWSOrganizationsIAM](https://fourtheorem.com/wp-content/uploads/2023/02/AWS-IAM-Identity-Center.png)
-![image](https://github.com/asliulusoy/AWS_Organizations/assets/132180090/34afbaf9-cec7-4ebb-96b9-dd2ac13f84fa)
+![image](https://fourtheorem.com/wp-content/uploads/2023/02/AWS-IAM-Identity-Center.png)
