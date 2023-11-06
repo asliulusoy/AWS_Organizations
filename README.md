@@ -26,3 +26,4 @@ AWS Organizations'ı kullanırken, yalnızca organizasyonunuzdaki hesaplardan di
 [AWSOrganizationsInvitation](https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/41_AWS_organizations_1_b4895f1b83.png)
 # IAM Identity Center ile Beraber Çalışın
 [AWSOrganizationsIAM](https://fourtheorem.com/wp-content/uploads/2023/02/AWS-IAM-Identity-Center.png)
+![image](https://github.com/asliulusoy/AWS_Organizations/assets/132180090/34afbaf9-cec7-4ebb-96b9-dd2ac13f84fa)
